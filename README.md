@@ -16,17 +16,23 @@
         }
         .container {
             text-align: center;
+            padding: 20px; /* Add some padding for better appearance on mobile */
         }
         img {
-            max-width: 50%;
+            max-width: 100%;
             height: auto;
         }
-    </style>
+        h1, p {
+            margin: 0;
+            padding: 10px 0;
+        }
+    </style>       
 </head>
 <body>
     <div class="container">
         <img src="jakes jam logo.png" alt="Company Logo">
         <h1>Contact Us</h1>
+        <p>Reach out via email/phone if you would like to purchase Pineapple Jam! Include quantity of 8oz jars.<p>
         <p>Email: jakeblane00@gmail.com</p>
         <p>Phone: (520) 678-4456</p>
     </div>
