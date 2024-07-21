@@ -19,11 +19,12 @@
             padding: 20px; /* Add some padding for better appearance on mobile */
         }
         img {
-            max-width: 100%;
+            max-width: 50%;
             height: auto;
         }
         h1, p {
             margin: 0;
+            max-width: 50%;
             padding: 10px 0;
         }
     </style>       
