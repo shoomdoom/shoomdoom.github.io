@@ -19,7 +19,7 @@
             padding: 20px; /* Add some padding for better appearance on mobile */
         }
         img {
-            max-width: 600px;
+            max-width: 100%;
             height: auto;
         }
         h1, p {
@@ -31,7 +31,7 @@
 </head>
 <body>
     <div class="container">
-        <img src="jakes jam logo.png" alt="Company Logo">
+        <img src="jakes jam logo.png" alt="Company Logo" width="300">
         <h1>Contact Us</h1>
         <p>Reach out via email/phone if you would like to purchase Pineapple Jam! Include quantity of 8oz jars.<p>
         <p>Email: jakeblane00@gmail.com</p>
