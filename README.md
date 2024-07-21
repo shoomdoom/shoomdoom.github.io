@@ -12,18 +12,18 @@
             height: 100vh;
             margin: 0;
             font-family: Arial, sans-serif;
-            background-color: #f0f0f0;
+            background-color: #FFFFFF;
         }
         .container {
             text-align: center;
-            padding: 20px; /* Add some padding for better appearance on mobile */
+            padding: 1px; /* Add some padding for better appearance on mobile */
         }
         img {
             height: auto;
         }
         h1, p {
             margin: 0;
-            padding: 10px 0;
+            padding: 1px 0;
         }
     </style>       
 </head>
@@ -34,6 +34,7 @@
         <p>Reach out via email/phone if you</p>
         <p>would like to purchase Pineapple Jam!</p>
         <p>Include quantity of 8oz jars.</p>
+        <p>------------------------</p>
         <p>Email: jakeblane00@gmail.com</p>
         <p>Phone: (520) 678-4456</p>
     </div>
