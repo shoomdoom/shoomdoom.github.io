@@ -22,7 +22,7 @@
             height: auto;
         }
         h1, p {
-            max-width: 400px;
+            max-width: 300px;
             margin: 0 auto;
         }
     </style>       
