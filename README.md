@@ -22,8 +22,8 @@
             height: auto;
         }
         h1, p {
-            margin: 0;
-            padding: 1px 0;
+            max-width: 400px;
+            margin: 0 auto;
         }
     </style>       
 </head>
