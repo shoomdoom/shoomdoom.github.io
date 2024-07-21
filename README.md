@@ -19,7 +19,7 @@
             padding: 20px; /* Add some padding for better appearance on mobile */
         }
         img {
-            max-width: 10%;
+            max-width: 600px;
             height: auto;
         }
         h1, p {
