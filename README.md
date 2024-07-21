@@ -18,7 +18,7 @@
             text-align: center;
         }
         img {
-            max-width: 100%;
+            max-width: 50%;
             height: auto;
         }
     </style>
@@ -27,7 +27,7 @@
     <div class="container">
         <img src="jakes jam logo.png" alt="Company Logo">
         <h1>Contact Us</h1>
-        <p>Email: jakeblane00@.com</p>
+        <p>Email: jakeblane00@gmail.com</p>
         <p>Phone: (520) 678-4456</p>
     </div>
 </body>
