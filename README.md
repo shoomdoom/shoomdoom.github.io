@@ -1,3 +1,5 @@
+```html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -25,10 +27,11 @@
 </head>
 <body>
     <div class="container">
-        <img src="logo.png" alt="Company Logo">
+        <img src="images/logo.png" alt="Company Logo">
         <h1>Contact Us</h1>
         <p>Email: info@yourcompany.com</p>
         <p>Phone: (123) 456-7890</p>
     </div>
 </body>
 </html>
+\```
