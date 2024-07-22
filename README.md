@@ -35,6 +35,8 @@
         <p>------------------------</p>
         <p>Email: jakeblane00@gmail.com</p>
         <p>Phone: (520) 678-4456</p>
+        <p>------------------------</p>
+        <p>Made in Flagstaff AZ</p>
     </div>
 </body>
 </html>
