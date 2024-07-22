@@ -30,8 +30,8 @@
 <body>
     <div class="container">
         <img src="jakes jam logo.png" alt="Company Logo" width="400">
-        <h1>Contact Us</h1>
-        <p>Reach out via email/phone if you would like to purchase Pineapple Jam! Include desired quantity of 8oz jars.</p>
+        <h1>Get Yo Jam!!!!</h1>
+        <p>Reach out via email/phone if you would like to get some Pineapple Jam! Include desired quantity of 8oz jars.</p>
         <p>------------------------</p>
         <p>Email: jakeblane00@gmail.com</p>
         <p>Phone: (520) 678-4456</p>
